@@ -13,7 +13,7 @@ public class Test {
 	 driver.get("https://www.google.co.in/");
 	 driver.manage().window().maximize();
 	 driver.findElement(By.id("lst-ib")).sendKeys("fli");
-	 driver.quit();
+//	 driver.quit();
 	 
 			 
 
