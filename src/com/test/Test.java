@@ -12,7 +12,7 @@ public class Test {
 //	 WebDriverWait wait = new WebDriverWait(driver, 15);
 	 driver.get("https://www.google.co.in/");
 	 driver.manage().window().maximize();
-	 driver.findElement(By.id("lst-ib")).sendKeys("flipkart");
+	 driver.findElement(By.id("lst-ib")).sendKeys("fli");
 	 driver.quit();
 	 
 			 
